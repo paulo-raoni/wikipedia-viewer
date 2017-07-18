@@ -1,0 +1,148 @@
+body {
+  margin-top: 100px;
+}
+
+/*Centralizes everything*/
+.viewer {
+   text-align: center;
+} 
+
+/*Wiki Viewer title*/
+.titleWiki {
+  font-size: 40px;
+  text-shadow: 2px 3px 6px lightgray;
+}
+
+/*Search box input style*/
+.searchBox {
+  box-shadow: 1px 1px 5pt black;
+  width: 70%;
+}
+
+/*Search button style*/
+.searchButton {
+  margin-bottom: 20px;
+  margin-top: 20px;
+  box-shadow: 1px 1px 8px;
+  border-color: lightyellow;
+  border-radius: 4px;
+  background-color: white;
+  font-weight: bold;
+}
+
+/*Random Article button style*/
+.randomArticle {
+  margin-top: 20px;
+  box-shadow: 1px 1px 8px;
+  border-color: lightyellow;
+  border-radius: 4px;
+  background-color: white;
+  font-weight: bold;
+}
+
+/*This div receives the articles by jQuery append method*/
+.results {
+  margin-top: 30px;
+}
+
+/*Style for bad searches*/
+.badBoxResult{
+  background-color: #FF7256;
+  text-align: center;
+  box-shadow: 1px 1px 4px;
+  margin: 20px auto;
+  border: 1px solid gray;
+  border-radius: 4px;
+  box-shadow: 1px 1px 2px;
+  box-sizing: border-box;
+}
+
+/*Style for good searches box*/
+.newBoxResult {
+  position: relative;
+  background-color: Ivory;
+  text-align: center;
+  margin: 20px auto 5px auto;
+  border: 1px solid gray;
+  border-radius: 6px;
+  box-shadow: 3px 3px 3px;
+  transition: 1s all;
+  width: 80%;
+}
+
+.newBoxResult:hover {
+  transform: rotateX(15deg);
+  
+}
+
+.paragraphNewBox {
+  margin-bottom: 30px;
+}
+
+/*Style for good searches paragraph and title*/
+div.newBoxResult {
+  color: black;
+  text-shadow: black;
+}
+
+/*Read More(ler mais) button*/
+.readMore {
+  position: relative;
+  bottom: 20px;
+  width: 120px;
+  height: 20px;
+  margin: auto;
+  color: white;
+  background-color: grey;
+  text-decoration: underline;
+  border-radius: 50px;
+  float: right;
+}
+
+/*Takes off the underline effect from the links*/
+div a:link {
+  text-decoration: none;
+}
+
+/*Footer styles below*/
+.lastParagraph {
+  font-weight: bold;
+  font-size: 0.9em;
+  line-height: 0.1em;
+  margin-top: 180px;
+}
+
+.codedBy {
+  color: black;
+  text-shadow: 1px 1px 1px yellowgreen;
+}
+
+.myName {
+  color: black;
+  text-shadow: 1px 1px 8px blue;
+}
+
+.codedWith {
+  color: darkgreen;
+  text-shadow: 1px 1px 1px yellowgreen;
+}
+
+.coffee {
+  max-height: 20px;
+  max-width: 25px;
+  box-shadow: 1px 1px 4px gray;
+  border-radius: 40px;
+}
+
+.learning {
+  max-height: 20px;
+  max-width: 25px;
+  box-shadow: 1px 1px 4px gray;
+  border-radius: 40px;
+}
+
+@media only screen and (max-width: 500px){
+  .searchBox {
+    width: 90%;
+  }
+}
