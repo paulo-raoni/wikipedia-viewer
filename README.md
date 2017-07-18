@@ -1,5 +1,5 @@
 # WIKIPEDIA VIEWER
-A Pen created at CodePen.io. You can find this one at http://codepen.io/pauloraoni/pen/YVywxG.
+A Pen created at CodePen.io. You can find this one at https://codepen.io/pauloraoni/pen/YVywxG.
 
 ## Features
 
@@ -19,11 +19,11 @@ A Pen created at CodePen.io. You can find this one at http://codepen.io/paulorao
 
 ##### IDE:
 
-- Special Thanks to [CODEPEN]()
+- Special Thanks to [CODEPEN](https://codepen.io/pauloraoni/)
 
 ## License
 
-Copyright (c) 2017 by Paulo Raoni Costa Bezerra (http://codepen.io/pauloraoni/pen/YVywxG)
+Copyright (c) 2017 by Paulo Raoni Costa Bezerra (https://codepen.io/pauloraoni/pen/YVywxG)
 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
