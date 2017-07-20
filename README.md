@@ -13,9 +13,10 @@ A Pen created at CodePen.io. You can find this one at https://codepen.io/paulora
 
 ## Credits
 
-##### Frameworks/Libraries/Preprocessors:
+##### Frameworks/Libraries/Preprocessors/Repositories:
 
-- [jQuery]()
+- [jQuery](https://jquery.com/)
+- [Google Fonts](https://fonts.google.com)
 
 ##### IDE:
 
