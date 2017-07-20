@@ -13,12 +13,12 @@ A Pen created at CodePen.io. You can find this one at https://codepen.io/paulora
 
 ## Credits
 
-##### Frameworks/Libraries/Preprocessors/Repositories:
+#### Frameworks/Libraries/Preprocessors/Repositories:
 
 - [jQuery](https://jquery.com/)
 - [Google Fonts](https://fonts.google.com)
 
-##### IDE:
+#### IDE:
 
 - Special Thanks to [CODEPEN](https://codepen.io/pauloraoni/)
 
