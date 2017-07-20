@@ -16,7 +16,8 @@ body {
 /*Search box input style*/
 .searchBox {
   box-shadow: 1px 1px 5pt black;
-  width: 70%;
+  width: 40%;
+  transition: 1s all;
 }
 
 /*Search button style*/
@@ -55,6 +56,7 @@ body {
   border-radius: 4px;
   box-shadow: 1px 1px 2px;
   box-sizing: border-box;
+  width: 60%;
 }
 
 /*Style for good searches box*/
@@ -67,7 +69,7 @@ body {
   border-radius: 6px;
   box-shadow: 3px 3px 3px;
   transition: 1s all;
-  width: 80%;
+  width: 60%;
 }
 
 .newBoxResult:hover {
@@ -141,8 +143,32 @@ div a:link {
   border-radius: 40px;
 }
 
-@media only screen and (max-width: 500px){
+@media screen and (max-width: 900px) {
   .searchBox {
-    width: 90%;
+    width: 50%;
+  }
+}
+
+@media only screen and (max-width: 700px){
+  .searchBox {
+    width: 60%;    
+  }
+  .badBoxResult {
+    width: 70%;
+  }
+  .newBoxResult {
+    width: 70%;
+  }
+}
+
+@media only screen and (max-width: 450px){
+  .searchBox {
+    width: 80%;
+  }
+   .badBoxResult {
+    width: 80%;
+  }
+  .newBoxResult {
+    width: 80%;
   }
 }
