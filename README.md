@@ -20,7 +20,16 @@ A Pen created at CodePen.io. You can find this one at https://codepen.io/paulora
 
 #### IDE:
 
-- Special Thanks to [CODEPEN](https://codepen.io/pauloraoni/)
+- [CODEPEN](https://codepen.io/)
+
+- [Brackets](http://brackets.io/)
+
+
+#### Special Thanks to:
+
+- [Free Code Camp](https://www.freecodecamp.com/) and [Quincy Larson](https://www.linkedin.com/in/quincylarson/).
+
+- [StackOverFlow](https://stackoverflow.com/) 
 
 ## License
 
